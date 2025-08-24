@@ -1,5 +1,7 @@
-[providers.dotnet]
-version = "9.0"
+providers = ["dotnet"]
+
+[variables]
+DOTNET_VERSION = "9.0"
 
 [phases.build]
 cmds = [
