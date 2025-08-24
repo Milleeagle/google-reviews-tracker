@@ -1,11 +1,10 @@
 {
   "$schema": "https://railway.app/railway.schema.json",
   "build": {
-    "builder": "nixpacks",
-    "buildCommand": "dotnet publish GoogleReviews.Api -c Release -o publish/"
+    "builder": "nixpacks"
   },
   "deploy": {
-    "startCommand": "cd publish && dotnet GoogleReviews.Api.dll",
+    "startCommand": "dotnet GoogleReviews.Api.dll --urls http://0.0.0.0:$PORT",
     "restartPolicyType": "on_failure",
     "restartPolicyMaxRetries": 10
   }
