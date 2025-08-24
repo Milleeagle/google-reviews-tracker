@@ -1,0 +1,11 @@
+[providers.dotnet]
+version = "9.0"
+
+[phases.build]
+cmds = [
+    "dotnet restore GoogleReviews.Api/GoogleReviews.Api.csproj",
+    "dotnet publish GoogleReviews.Api/GoogleReviews.Api.csproj -c Release -o /app/publish --no-restore"
+]
+
+[start]
+cmd = "dotnet /app/publish/GoogleReviews.Api.dll --urls http://0.0.0.0:$PORT"
