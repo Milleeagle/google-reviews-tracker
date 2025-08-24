@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: google-reviews-tracker
+    runtime: dotnet
+    buildCommand: dotnet publish GoogleReviews.Api/GoogleReviews.Api.csproj -c Release -o ./publish
+    startCommand: dotnet ./publish/GoogleReviews.Api.dll --urls http://0.0.0.0:$PORT
+    envVars:
+      - key: ASPNETCORE_ENVIRONMENT
+        value: Production
+      - key: GoogleApi__ApiKey
+        sync: false
+      - key: GoogleDocs__DocumentId  
+        sync: false
+      - key: GoogleDocs__ServiceAccountBase64
+        sync: false
