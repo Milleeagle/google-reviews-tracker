@@ -1,0 +1,59 @@
+{
+  "CompanyId": "resolution-games",
+  "CompanyName": "Resolution Games",
+  "Rating": 4.5,
+  "UserRatingsTotalCount": 19,
+  "Reviews": [
+    {
+      "Id": "resolution-games_2022-12-15T22:30:20.640818Z_ArminJohansson",
+      "CompanyId": "resolution-games",
+      "AuthorName": "Armin Johansson",
+      "Rating": 5,
+      "Text": "Excellent company, I keep coming back here.",
+      "Time": "2022-12-15T22:30:20.640818Z",
+      "AuthorUrl": "https://www.google.com/maps/contrib/100651776314174029671/reviews",
+      "ProfilePhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocIYIWQJ7IiBMPDdCUJZFq-FVQuL4YNVRKGmoKMUFZIsMqb9gQ=s128-c0x00000000-cc-rp-mo"
+    },
+    {
+      "Id": "resolution-games_2016-08-24T11:05:16.334Z_PaulBrady",
+      "CompanyId": "resolution-games",
+      "AuthorName": "Paul Brady",
+      "Rating": 5,
+      "Text": "Great company and amazing VR games.",
+      "Time": "2016-08-24T11:05:16.334Z",
+      "AuthorUrl": "https://www.google.com/maps/contrib/101313699190158901561/reviews",
+      "ProfilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjXdzy90mp127wCu6Nf-S0o5e70sYl5w0iD35VcK-jz_3TLEp2WL=s128-c0x00000000-cc-rp-mo"
+    },
+    {
+      "Id": "resolution-games_2020-08-18T12:33:52.097880Z_SkuliOskarsson",
+      "CompanyId": "resolution-games",
+      "AuthorName": "Skuli Oskarsson",
+      "Rating": 5,
+      "Text": "Was nice. 10/10 will be back",
+      "Time": "2020-08-18T12:33:52.09788Z",
+      "AuthorUrl": "https://www.google.com/maps/contrib/104373366982398041985/reviews",
+      "ProfilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjXkjW1suqsB25HMoYPR9b-2MbJecn5q42VPQhrqTF-JsmT_7Dy9=s128-c0x00000000-cc-rp-mo-ba2"
+    },
+    {
+      "Id": "resolution-games_2017-01-31T12:07:28.871Z_HoumanAshrafzadeh",
+      "CompanyId": "resolution-games",
+      "AuthorName": "Houman Ashrafzadeh",
+      "Rating": 5,
+      "Text": "awesome company",
+      "Time": "2017-01-31T12:07:28.871Z",
+      "AuthorUrl": "https://www.google.com/maps/contrib/114128571523394173785/reviews",
+      "ProfilePhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjW3j-nKSxyasun8lvDAVe4OCfo70nr5hePGl8gKVDRHXLWhBUTROA=s128-c0x00000000-cc-rp-mo-ba5"
+    },
+    {
+      "Id": "resolution-games_2024-02-18T19:51:05.912034Z_AL",
+      "CompanyId": "resolution-games",
+      "AuthorName": "A L",
+      "Rating": 1,
+      "Text": null,
+      "Time": "2024-02-18T19:51:05.912034Z",
+      "AuthorUrl": "https://www.google.com/maps/contrib/111272161435252341376/reviews",
+      "ProfilePhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocJ4CRO8-OG-XHjGhvNuHjp8-ZJrS8Kpk9DTmaX7FKonb3bSPQ=s128-c0x00000000-cc-rp-mo"
+    }
+  ],
+  "LastUpdated": "2025-08-22T19:30:39.9189506Z"
+}

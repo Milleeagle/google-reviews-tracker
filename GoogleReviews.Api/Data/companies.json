@@ -1,0 +1,26 @@
+[
+  {
+    "Id": "searchminds-group-ab",
+    "Name": "Searchminds Group AB",
+    "PlaceId": "ChIJnytgooPRV0YRTCdMAyVMLt4",
+    "GoogleMapsUrl": "https://www.google.com/maps/place/Searchminds+Group+AB/@56.6799798,16.3477468,17z/",
+    "IsActive": true,
+    "LastUpdated": "2025-08-22T16:05:00Z"
+  },
+  {
+    "Id": "resolution-games",
+    "Name": "Resolution games",
+    "PlaceId": "ChIJNwzurWidX0YRHAFrRVoJHvU",
+    "GoogleMapsUrl": null,
+    "IsActive": true,
+    "LastUpdated": "2025-08-22T18:49:06.9977113Z"
+  },
+  {
+    "Id": "ica-maxi-kalmar",
+    "Name": "Ica maxi kalmar",
+    "PlaceId": "ChIJz_fhF4PRV0YRNYBIp76ybZI",
+    "GoogleMapsUrl": null,
+    "IsActive": true,
+    "LastUpdated": "2025-08-22T19:34:50.4294653Z"
+  }
+]

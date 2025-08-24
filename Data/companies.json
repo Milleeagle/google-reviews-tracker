@@ -1,0 +1,26 @@
+[
+  {
+    "Id": "searchminds-group-ab",
+    "Name": "Searchminds Group AB",
+    "PlaceId": "ChIJnytgooPRV0YRTCdMAyVMLt4",
+    "GoogleMapsUrl": "https://www.google.com/maps/place/Searchminds+Group+AB/@56.6799798,16.3477468,17z/",
+    "IsActive": true,
+    "LastUpdated": "2025-08-22T16:05:00Z"
+  },
+  {
+    "Id": "ica-maxi-kalmar",
+    "Name": "ICA Maxi Kalmar",
+    "PlaceId": "",
+    "GoogleMapsUrl": null,
+    "IsActive": false,
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": "sample-restaurant",
+    "Name": "Sample Restaurant",
+    "PlaceId": "",
+    "GoogleMapsUrl": null,
+    "IsActive": false,
+    "LastUpdated": "2024-01-01T00:00:00Z"
+  }
+]

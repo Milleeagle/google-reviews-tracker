@@ -1,0 +1,91 @@
+# .NET Core build outputs
+bin/
+obj/
+out/
+publish/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific folders
+.vs/
+.vscode/
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+
+# NuGet Packages
+*.nupkg
+**/packages/*
+# except build/, which is used as an MSBuild target.
+!**/packages/build/
+
+# Uncomment if necessary however generally it will be regenerated when needed
+#!**/packages/repositories.config
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Mac
+.DS_Store
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# CodeRush
+.cr/
+
+# Python Tools for Visual Studio (PTVS)
+__pycache__/
+*.pyc
+
+# Node modules (if using npm for any frontend tools)
+node_modules/
+npm-debug.log*
+
+# Logs
+logs/
+*.log
+
+# Runtime data
+pids/
+*.pid
+*.seed
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# Dependency directories
+wwwroot/lib/
+
+# Environment variables (contains secrets)
+.env
+.env.local
+.env.production
+.env.development
+
+# Service account files (contains secrets)
+service-account*.json
+*-service-account.json
+
+# Local data files
+Data/Reviews/*.json
+!Data/Reviews/.gitkeep
